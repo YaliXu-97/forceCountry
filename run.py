@@ -2,7 +2,7 @@ import os
 import random
 from common.utils import sleep_count
 
-
+#哈哈哈哈
 def short_wait():
     sleep_count(random.randrange(2, 3))
     print("模拟人操作断延时，随机延迟2-3秒")
